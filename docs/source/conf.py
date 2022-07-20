@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ORS玩家帮助手册'
+project = 'TSS玩家帮助手册'
 copyright = '2022, hthhgd'
 author = 'hthhgd'
 
@@ -56,6 +56,10 @@ exclude_patterns = []
 
 # html_theme = 'alabaster'
 html_theme='sphinx_rtd_theme'
+
+html_theme_options = {
+	'navigation_depth': 6,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
