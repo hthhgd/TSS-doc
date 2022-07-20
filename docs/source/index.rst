@@ -11,6 +11,8 @@
    整合包模组指南<bao.rst>
 
 没啥用的索引
------------
+==================
 
 * :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
