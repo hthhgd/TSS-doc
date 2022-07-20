@@ -10,9 +10,9 @@
    服务器指令使用指南<help.rst>
    整合包模组指南<bao.rst>
 
-没啥用的索引
-==================
+.. 没啥用的索引
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
